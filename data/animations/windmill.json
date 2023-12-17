@@ -1,0 +1,78 @@
+{
+  "frames": {
+    "windmill_frame1.png": {
+      "frame": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame2.png": {
+      "frame": { "x": 208, "y": 0, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame3.png": {
+      "frame": { "x": 416, "y": 0, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame4.png": {
+      "frame": { "x": 0, "y": 208, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame5.png": {
+      "frame": { "x": 208, "y": 208, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame6.png": {
+      "frame": { "x": 416, "y": 208, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame7.png": {
+      "frame": { "x": 0, "y": 416, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    },
+    "windmill_frame8.png": {
+      "frame": { "x": 208, "y": 416, "w": 208, "h": 208 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 208, "h": 208 },
+      "sourceSize": { "w": 208, "h": 208 }
+    }
+  },
+  "animations": {
+    "windmill_spin": [
+      "windmill_frame1.png",
+      "windmill_frame2.png",
+      "windmill_frame3.png",
+      "windmill_frame4.png",
+      "windmill_frame5.png",
+      "windmill_frame6.png",
+      "windmill_frame7.png",
+      "windmill_frame8.png"
+    ]
+  },
+  "meta": {
+    "image": "path/to/your/windmill_spritesheet_image.png",
+    "format": "RGBA8888",
+    "size": { "w": 624, "h": 624 },
+    "scale": "1"
+  }
+}
